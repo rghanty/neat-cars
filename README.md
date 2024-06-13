@@ -17,7 +17,7 @@ AI cars learning tracks using NEAT (NeuroEvolution of Augmenting Topologies). Ea
 * The track can be changed by changing the track name on **line 12** in main.py
 * You can add your own tracks, but make sure to change the pixel location of the spawn point of the cars on **line 26** in main.py
 ## Preview
-Here is Generation 5 of around 80 cars learning the Interlagos track of which only 2 (eventually 1) survived to complete an entire lap.
+Here is Generation 5 which started with 80 cars learning the Interlagos track of which only 2 (eventually 1) survived to complete an entire lap.
 
 
 
